@@ -1,0 +1,11 @@
+{
+  "name": "gmail-imap",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "imapflow": "^1.0.175",
+    "mailparser": "^3.7.2"
+  }
+}

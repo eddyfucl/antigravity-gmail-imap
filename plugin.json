@@ -1,0 +1,6 @@
+{
+  "name": "gmail-imap",
+  "displayName": "Gmail IMAP (全局)",
+  "version": "1.0.0",
+  "description": "跨所有项目全局可用的 Gmail 只读 MCP 插件，通过 Google 应用专用密码经 IMAP 读取、搜索邮件与下载附件，自动适配本地代理。"
+}
